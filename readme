@@ -1,0 +1,21 @@
+Projeto apresentado na trilha de Javascript do TDC 2011
+http://www.thedevelopersconference.com.br/tdc/2011/saopaulo/trilha-javascript#programacao
+Sao Paulo - 07 de julho de 2011
+
+Todas as dependencias estao incluidas:
+Ext JS 4
+Spring MVC 3
+Hibernate 3.5
+
+Antes de executar o projeto, execute o script sql/script.sql
+
+Ferramentas usadas para desenvolvimento:
+Eclipse IDE - Java project
+MySQL
+
+Para mudar o tema:
+compass compile
+
+Loiane Groner
+http://loianegroner.com (English)
+http://loiane.com (Portugues)
